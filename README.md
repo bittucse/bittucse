@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/md_jacob7" target="blank"><img src="https://img.shields.io/twitter/follow/md_jacob7?logo=twitter&style=for-the-badge" alt="md_jacob7" /></a> </p>
 
-- 🔭 I’m currently working on **mooz**
+- 🔭 I’m currently working on **colabEditor**
 
 - 🌱 I’m currently learning **NEXT JS**
 
